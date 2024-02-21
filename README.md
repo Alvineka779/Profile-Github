@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=errorman872&show_icons=true&locale=en&layout=compact" alt="errorman872" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=errorman872&show_icons=true&locale=en" alt="errorman872" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=errorman872&" alt="errorman872" /></p>
